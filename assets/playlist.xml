@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+
+	
+	<PLAYLIST>
+	<SONG URL="assets/track1.mp3" TITLE="Five Minutes to Midnight" ARTIST="Boys Like Girls" />
+	<SONG URL="assets/track2.mp3" TITLE="Welcome to Paradise" ARTIST="Green Days"/>
+	<SONG URL="assets/track3.mp3" TITLE="In Too Deep" ARTIST="Sum 41" />
+	<SONG URL="assets/track4.mp3" TITLE="Kiss Some Ass" ARTIST="Stroke 9" />
+	<SONG URL="assets/track5.mp3" TITLE="The Great Escape" ARTIST="Boys Like Girls"/>
+	<SONG URL="assets/track6.mp3" TITLE="Flavor of The Week" ARTIST="American HI-FI" />
+	<SONG URL="assets/track7.mp3" TITLE="Basket Case" ARTIST="Green Days" />
+	<SONG URL="assets/track8.mp3" TITLE="Fat Lip" ARTIST="Sum 41" />
+	<SONG URL="assets/track9.mp3" TITLE="First Date" ARTIST="Blink 182" />
+	<SONG URL="assets/track10.mp3" TITLE="Ocean Avenue" ARTIST="Yellowcard" />
+	</PLAYLIST>
+	
+	
